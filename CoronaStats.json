@@ -2,8 +2,8 @@
   "patitient": [
     {
       "PatitientID": "01",
-      "Latitude": 32.87451728,
-      "Longitude": -96.94534779,
+      "Latitude": 32.87360419,
+      "Longitude": -96.97223425,
       "DeviceID": "Dev-1",
       "QPlaceName": "IrvingCen-1",
       "QPAddress": "Irving",
