@@ -22,8 +22,8 @@
     },
     {
       "PatitientID": "PT03",
-      "Latitude": 32.89140780,
-      "Longitude": -96.96677685,
+      "Latitude": 32.862413,
+      "Longitude": -96.961247,
       "DeviceID": "Dev-3",
       "QPlaceName": "IrvingCen-1",
       "QPAddress": "Irving",
