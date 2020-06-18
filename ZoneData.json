@@ -1,0 +1,40 @@
+{
+	"zones": [
+		{
+			"district": "Nicobars",
+			"districtcode": "AN_Nicobars",
+			"lastupdated": "01/05/2020",
+			"source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+			"state": "Andaman and Nicobar Islands",
+			"statecode": "AN",
+			"zone": "Green"
+		},
+		{
+			"district": "North and Middle Andaman",
+			"districtcode": "AN_North and Middle Andaman",
+			"lastupdated": "01/05/2020",
+			"source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+			"state": "Andaman and Nicobar Islands",
+			"statecode": "AN",
+			"zone": "Green"
+		},
+		{
+			"district": "South Andaman",
+			"districtcode": "AN_South Andaman",
+			"lastupdated": "01/05/2020",
+			"source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+			"state": "Andaman and Nicobar Islands",
+			"statecode": "AN",
+			"zone": "Red"
+		},
+    {
+      "district": "Hyderabad",
+      "districtcode": "TG_Hyderabad",  
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com",
+      "state": "Telangana",
+      "statecode": "TG",
+      "zone": "Red"
+    }
+  ]
+}
