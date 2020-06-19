@@ -1,12 +1,12 @@
 {
   "zones": [
     {
-      "district": "Nicobars",
-      "districtcode": "AN_Nicobars",
+      "district": "Osmanabad",
+      "districtcode": "MH_Osmanabad",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Andaman and Nicobar Islands",
-      "statecode": "AN",
+      "state": "Maharashtra",
+      "statecode": "MH",
       "zone": "Green"
     },
     {
@@ -19,21 +19,30 @@
       "zone": "Red"
     },
     {
-      "district": "North and Middle Andaman",
-      "districtcode": "AN_North and Middle Andaman",
+      "district": "New Delhi",
+      "districtcode": "DL_New Delhi",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Andaman and Nicobar Islands",
-      "statecode": "AN",
-      "zone": "Green"
+      "state": "Delhi",
+      "statecode": "DL",
+      "zone": "Red"
     },
     {
-      "district": "South Andaman",
-      "districtcode": "AN_South Andaman",
+      "district": "Chennai",
+      "districtcode": "TN_Chennai",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Andaman and Nicobar Islands",
-      "statecode": "AN",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Red"
+    },
+    {
+      "district": "Pune",
+      "districtcode": "MH_Pune",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
       "zone": "Red"
     }
   ]
