@@ -1,7 +1,7 @@
 {
   "patitient": [
     {
-      "PatitientID": "01",
+      "PatitientID": "PersonA",
       "Latitude": 32.87360419,
       "Longitude": -96.97223425,
       "DeviceID": "Dev-1",
@@ -11,7 +11,7 @@
       "QPLong": -96.96696281
     },
     {
-      "PatitientID": "02",
+      "PatitientID": "PersonB",
       "Latitude": 32.87451728,
       "Longitude": -96.94534779,
       "DeviceID": "Dev-2",
@@ -21,7 +21,7 @@
       "QPLong": -96.96696281
     },
     {
-      "PatitientID": "PT03",
+      "PatitientID": "PersonC",
       "Latitude": 32.862413,
       "Longitude": -96.961247,
       "DeviceID": "Dev-3",
