@@ -1,13 +1,20 @@
-1) 
+1) Hyderabad
 {
   "Latitude": "17.385044",
   "Longitude": "78.486671",
   "DeviceID": "DeviceABb"
 }
 
-2) 
+2) Pune
 {
   "Latitude": "18.5204",
   "Longitude": "73.8567",
   "DeviceID": "DeviceA11"
+}
+
+3) Hightech City
+{
+  "Latitude": "17.4435",
+  "Longitude": "78.3772",
+  "DeviceID": "DeviceAHC"
 }
